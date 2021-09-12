@@ -11,9 +11,9 @@ ZCZC W01 130 L02 ZOOM Meeting
 ZCZC W01 5 L11 Virtual Box and FDM Installation
 ZCZC W01 120 L08 TAs Assistance
 ZCZC W01 15 L11 Assignment #01
-ZCZC W01 90 L12 Assignment #02 (Internet Problem)
+ZCZC W01 90 L12 Assignment #02 (Internet/ISP Problem)
 ZCZC W01 30 L13 Assignment #03
-ZCZC W01 90 L14 Assignment #04 (Internet Problem)
+ZCZC W01 90 L14 Assignment #04 (Internet/ISP Problem)
 ZCZC W01 30 L15 Assignment #05
 ZCZC W01 20 L16 Assignment #06
 ZCZC W01 10 L17 Assignment #07
