@@ -17,3 +17,5 @@ ZCZC W01 90 L14 Assignment #04 (Internet Problem)
 ZCZC W01 30 L15 Assignment #05
 ZCZC W01 20 L16 Assignment #06
 ZCZC W01 10 L17 Assignment #07
+ZCZC W01 20 L18 Assignment #08
+ZCZC W01 20 L19 Assignment #09
