@@ -19,6 +19,7 @@ ZCZC W01 20 L16 Assignment #06
 ZCZC W01 10 L17 Assignment #07
 ZCZC W01 20 L18 Assignment #08
 ZCZC W01 20 L19 Assignment #09
+ZCZC W01 25 L05 Quiz
 ZCZC W02 125 L02 Zoom Meeting
 ZCZC W02 60 L09 Assignment #04-#13
 ZCZC W02 200 L09 Assignment #00-#03
