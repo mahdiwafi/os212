@@ -20,6 +20,15 @@ ZCZC W01 10 L17 Assignment #07
 ZCZC W01 20 L18 Assignment #08
 ZCZC W01 20 L19 Assignment #09
 ZCZC W01 20 L05 Quiz
-ZCZC W02 125 L02 Zoom Meeting
-ZCZC W02 60 L09 Assignment #04-#13
-ZCZC W02 200 L09 Assignment #00-#03
+ZCZC W02 120 L02 Zoom Meeting
+ZCZC W02 5 L14 Assignment #04 GnuPG Key Pair
+ZCZC W02 5 L15 Assignment #05 GnuPG Keys
+ZCZC W02 10 L16 Assignment #06
+ZCZC W02 10 L17 Assignment #07 Sign OS public key
+ZCZC W02 15 L18 Assignment #08 Export my public key
+ZCZC W02 60 L20 Assignment #10 review peer links
+ZCZC W02 45 L09 Assignment #11-#13
+ZCZC W02 90 L11 Assignment #01
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 140 L13 Assignment #03
+ZCZC W02 60 L19 Assignment #09 Update bookmark links
