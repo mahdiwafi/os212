@@ -38,3 +38,6 @@ ZCZC W03 135 L02 Zoom Meeting
 ZCZC W03 30 L01 Discussion Forum
 ZCZC W03 10 L14 Assignment #04
 ZCZC W03 40 L15 Assignment #05
+ZCZC W03 5 L18 Assignment #08
+ZCZC W03 10 L16 Assignment #06
+ZCZC W03 10 L17 Assignment #07
