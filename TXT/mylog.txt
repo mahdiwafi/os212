@@ -33,3 +33,8 @@ ZCZC W02 5 L12 Assignment #02 Update mylog
 ZCZC W02 140 L13 Assignment #03
 ZCZC W02 60 L19 Assignment #09 Update bookmark links
 ZCZC W02 10 L12 Assignment #02 Update mylog
+ZCZC W02 20 L05 Quiz
+ZCZC W03 135 L02 Zoom Meeting
+ZCZC W03 30 L01 Discussion Forum
+ZCZC W03 10 L14 Assignment #04
+ZCZC W03 40 L15 Assignment #05
