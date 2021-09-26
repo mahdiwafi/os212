@@ -13,3 +13,6 @@ permalink: /LINKS/
 ## Best Link of W02
 * [Introduction to Cyber Security](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
     This link mainly discusses the point of Cyber Security, the importance of trust, then discusses more about security, about threat and about resiliency and recovery after a disaster.
+## Best Link of W03
+* [After All These Years, the World is Still Powered by C Programming](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming)<br>
+    This link talks about the C as a language that is still used until now and why is it still used. This link also tells us reasons to learn C. 
