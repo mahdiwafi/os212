@@ -20,4 +20,4 @@ permalink: /LINKS/
     This link talks about the C as a language that is still used until now and why is it still used. This link also tells us reasons to learn C. 
 ## Best Link of W04
 * [Use-After-Free](https://encyclopedia.kaspersky.com/glossary/use-after-free/)<br>
-    This link gives clear definition on Use-After-Free. This is one of the best link to answer this week's OS discussion forum.
+    This link gives clear definition on Use-After-Free, how it occurs and how is it being exploited. This is one of the best link to answer this week's OS discussion forum.
