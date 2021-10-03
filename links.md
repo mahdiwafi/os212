@@ -18,3 +18,6 @@ permalink: /LINKS/
 ## Best Link of W03
 * [After All These Years, the World is Still Powered by C Programming](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming)<br>
     This link talks about the C as a language that is still used until now and why is it still used. This link also tells us reasons to learn C. 
+## Best Link of W04
+* [Use-After-Free](https://encyclopedia.kaspersky.com/glossary/use-after-free/)<br>
+    This link gives clear definition on Use-After-Free. This is one of the best link to answer this week's OS discussion forum.
