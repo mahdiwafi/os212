@@ -21,3 +21,6 @@ permalink: /LINKS/
 ## Best Link of W04
 * [Use-After-Free](https://encyclopedia.kaspersky.com/glossary/use-after-free/)<br>
     This link gives clear definition on Use-After-Free, how it occurs and how is it being exploited. This is one of the best link to answer this week's OS discussion forum.
+## Best Links of W05
+* [Debian Releases](https://wiki.debian.org/DebianReleases) and [Ubuntu Releases](https://releases.ubuntu.com/)<br>
+    Both links are useful because they show Debian and Ubuntu releases names, it helped me on answering this week's discussion forum.
