@@ -24,3 +24,6 @@ permalink: /LINKS/
 ## Best Links of W05
 * [Debian Releases](https://wiki.debian.org/DebianReleases) and [Ubuntu Releases](https://releases.ubuntu.com/)<br>
     Both links are useful because they show Debian and Ubuntu releases names, it helped me on answering this week's discussion forum.
+## Best Links of W06
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) and [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+    The link [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) is good for knowing more about fork() in C, which is used to create a new process(branch/child process), along with some examples of the implementation, the other link ([Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)) is mainly about process in operating system, which is basically a program in execution.
