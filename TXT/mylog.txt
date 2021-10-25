@@ -59,3 +59,10 @@ ZCZC W05 10 L15 Assignment #05
 ZCZC W05 10 L17 Assignment #07
 ZCZC W05 20 L12 Update mylog
 ZCZC W05 120 L09 Assignment in General
+ZCZC W05 20 L05 Quiz
+ZCZC W06 110 L02 Zoom Meeting
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 10 L12 Update mylog
+ZCZC W06 90 L09 Assignment in General
+ZCZC W06 5 L12 Update mylog
+
