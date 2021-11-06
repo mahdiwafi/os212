@@ -27,3 +27,6 @@ permalink: /LINKS/
 ## Best Links of W06
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) and [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
     The link [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) is good for knowing more about fork() in C, which is used to create a new process(branch/child process), along with some examples of the implementation, the other link ([Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)) is mainly about process in operating system, which is basically a program in execution.
+## Best Link of W07
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+    The link will teach you about a technique named semaphore which is proposed by Dijkstra in 1965. Semaphore is split into two types which is Binary Semaphore and Counting Semaphore.
