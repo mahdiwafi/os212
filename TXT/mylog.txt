@@ -65,4 +65,8 @@ ZCZC W06 30 L14 Assignment #04
 ZCZC W06 10 L12 Update mylog
 ZCZC W06 90 L09 Assignment in General
 ZCZC W06 5 L12 Update mylog
-
+ZCZC W06 20 L05 Quiz
+ZCZC W07 120 L02 Zoom Meeting
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 90 L09 Assignment in General
+ZCZC W07 10 L12 Update mylog
