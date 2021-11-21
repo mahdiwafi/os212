@@ -76,4 +76,8 @@ ZCZC W08 45 L14 Assignment #04
 ZCZC W08 90 L15 Assignment #05
 ZCZC W08 60 L09 Assignment in General
 ZCZC W08 10 L12 Update myrank and mylog
+ZCZC W09 120 L02 Zoom Meeting
+ZCZC W09 80 L14 Assignment #04
+ZCZC W09 10 L12 Update myrank and mylog
+ZCZC W09 15 L09 Assignment in General
 
