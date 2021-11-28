@@ -30,3 +30,6 @@ permalink: /LINKS/
 ## Best Link of W07
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
     The link tells a general idea about a technique named semaphore which is proposed by Dijkstra in 1965. Semaphore is split into two types which is Binary Semaphore and Counting Semaphore.
+## Best Links of W10
+* [LFS Guide](https://www.linuxfromscratch.org/lfs/view/11.0/) and [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+    Both links guided me in completing the linux from scratch tasks. Both links are about the same guide, except that the YouTube playlist gave clear demonstration on what to do, sometimes it differs from the LFS guide. There might be some trials and errors in the video, but the speaker solved those problems quite easily. The problem for the written guide is that it doesnt demonstrate quite exactly what to do, the playlist does, but the playlist shows the loading screen which is helpful sometimes, but it does eat up the video duration (might miss the really important ones).
